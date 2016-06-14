@@ -12,7 +12,8 @@ MARC - Plants
 ## Materials Management - Purchasing
 
 //Purchasing Requisition
-EBAN
+EBAN - Segment
+EBKN - Account Assignment 
 
 //Purchasing Document
 EKKO - Header
@@ -25,3 +26,8 @@ MSEG - Segment
 //Invoice Receipt
 RBKP - Header
 RSEG - Segment
+
+//Document Flow (History)
+EKBE
+
+
