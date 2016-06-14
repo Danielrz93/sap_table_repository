@@ -5,6 +5,9 @@ LFA1 - General Data
 
 //Material Master
 MARA - General Data
+MAKT - Material Descriptions
+MARM - Units of Measure
+MARC - Plants
 
 ## Materials Management - Purchasing
 
