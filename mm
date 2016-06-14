@@ -1,14 +1,14 @@
-//Purchase Requisition
+//Purchasing Requisition
 EBAN
 
-//Purchase Order
+//Purchasing Document
 EKKO - Header
-EKPO - Positions
+EKPO - Segment
 
 //Material Document
 MKPF - Header
-MSEG - Positions
+MSEG - Segment
 
 //Invoice Receipt
 RBKP - Header
-RSEG - Positions
+RSEG - Segment
