@@ -22,10 +22,6 @@ EBKN - Account Assignment
 EKKO - Header
 EKPO - Segment
 
-//Material Document
-MKPF - Header
-MSEG - Segment
-
 //Invoice Receipt
 RBKP - Header
 RSEG - Segment
@@ -39,4 +35,6 @@ EKBE
 IKPF - Header
 ISEG - Segment
 
-
+//Material Document
+MKPF - Header
+MSEG - Segment
