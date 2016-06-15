@@ -14,7 +14,7 @@ MARC - Plants
 //Purchase Info Record
 EINA - General Data
 
-## Materials Management - Purchasing
+## Purchasing
 
 //Purchasing Requisition
 EBAN - Segment
@@ -31,7 +31,7 @@ RSEG - Segment
 //Document Flow (History)
 EKBE
 
-## Materials Management - Inventory
+## Inventory
 
 //Physical Inventory
 IKPF - Header
