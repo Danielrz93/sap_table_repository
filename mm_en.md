@@ -4,6 +4,8 @@
 
 Vendor Master
 * LFA1 - General Data
+* LFB1 - Company Data
+* LFM1 - Purchasing Organization Data
 
 Material Master
 * MARA - General Data
@@ -25,6 +27,7 @@ Purchasing Document
 * EKKO - Header
 * EKPO - Segment
 * EKBE - Document Flow
+* EKKN - Account Assignment
 
 Invoice Receipt
 * RBKP - Header
