@@ -1,4 +1,6 @@
-## Materials Management - Master Data
+### Materials Management (MM)
+
+## Master Data
 
 //Vendor Master
 LFA1 - General Data
