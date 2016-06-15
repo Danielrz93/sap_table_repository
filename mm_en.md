@@ -28,8 +28,8 @@ Invoice Receipt
 * RBKP - Header
 * RSEG - Segment
 
-Document Flow (History)
-* EKBE
+Purchasing Document Flow
+* EKBE - History
 
 ## Inventory
 
