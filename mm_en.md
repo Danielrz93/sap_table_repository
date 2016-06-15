@@ -2,49 +2,49 @@
 
 ## Master Data
 
-//Vendor Master
-LFA1 - General Data
+Vendor Master
+* LFA1 - General Data
 
-//Material Master
-MARA - General Data
-MAKT - Material Descriptions
-MARM - Units of Measure
-MARC - Plants
+Material Master
+* MARA - General Data
+* MAKT - Material Descriptions
+* MARM - Units of Measure
+* MARC - Plants
 
-//Purchase Info Record
-EINA - General Data
+Purchase Info Record
+* EINA - General Data
 
 ## Purchasing
 
-//Purchasing Requisition
-EBAN - Segment
-EBKN - Account Assignment 
+Purchasing Requisition
+* EBAN - Segment
+* EBKN - Account Assignment 
 
-//Purchasing Document
-EKKO - Header
-EKPO - Segment
+Purchasing Document
+* EKKO - Header
+* EKPO - Segment
 
-//Invoice Receipt
-RBKP - Header
-RSEG - Segment
+Invoice Receipt
+* RBKP - Header
+* RSEG - Segment
 
-//Document Flow (History)
-EKBE
+Document Flow (History)
+* EKBE
 
 ## Inventory
 
-//Physical Inventory
-IKPF - Header
-ISEG - Segment
+Physical Inventory
+* IKPF - Header
+* ISEG - Segment
 
-//Material Document
-MKPF - Header
-MSEG - Segment
+Material Document
+* MKPF - Header
+* MSEG - Segment
 
-//Reservation requirements
-RKPF - Header
-RESB - Segment
+Reservation requirements
+* RKPF - Header
+* RESB - Segment
 
-//Sales Order Stock
-MSKA - Quantities
-MSKAH - History
+Sales Order Stock
+* MSKA - Quantities
+* MSKAH - History
