@@ -9,7 +9,8 @@ Material Master
 * MARA - General Data
 * MAKT - Material Descriptions
 * MARM - Units of Measure
-* MARC - Plants
+* MARC - Plant Data
+* MARD - Storage Location
 
 Purchase Info Record
 * EINA - General Data
