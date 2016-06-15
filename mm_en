@@ -33,4 +33,10 @@ RSEG - Segment
 //Document Flow (History)
 EKBE
 
+## Materials Management - Inventory
+
+//Physical Inventory
+IKPF - Header
+ISEG - Segment
+
 
