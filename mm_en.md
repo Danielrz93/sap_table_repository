@@ -23,13 +23,11 @@ Purchasing Requisition
 Purchasing Document
 * EKKO - Header
 * EKPO - Segment
+* EKBE - Document Flow
 
 Invoice Receipt
 * RBKP - Header
 * RSEG - Segment
-
-Purchasing Document Flow
-* EKBE - History
 
 ## Inventory
 
