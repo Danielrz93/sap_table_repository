@@ -38,3 +38,6 @@ ISEG - Segment
 //Material Document
 MKPF - Header
 MSEG - Segment
+
+//Reservation requirements
+RESB
