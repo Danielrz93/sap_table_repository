@@ -40,4 +40,5 @@ MKPF - Header
 MSEG - Segment
 
 //Reservation requirements
-RESB
+RKPF - Header
+RESB - Segment
