@@ -42,3 +42,7 @@ MSEG - Segment
 //Reservation requirements
 RKPF - Header
 RESB - Segment
+
+//Sales Order Stock
+MSKA - Quantities
+MSKAH - History
